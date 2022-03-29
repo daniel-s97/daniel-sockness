@@ -6,7 +6,7 @@
 ### <div align="center">I'm Daniel, a full-time full-stack developer 👨‍💻 working since 2015 🚀</div>  
   
 
-- 🔭 I’m currently working on [Connect](https://github.com/daniel-sockness/connect)  
+<!--- 🔭 I’m currently working on [Connect](https://github.com/daniel-sockness/connect)  -->
   
 
 - 🌱 I’m currently learning Socket.IO and Python  
